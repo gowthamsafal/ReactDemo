@@ -1,7 +1,7 @@
 import React from "react";
 const MapExample = () => {
   const data = [
-    { id: 1, name: "Safal Doe" },
+    { id: 1, name: "Safal Do" },
     { id: 2, name: "Victor Wayne" },
     { id: 3, name: "Jane Doe" },
   ];
