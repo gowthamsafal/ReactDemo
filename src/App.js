@@ -6,6 +6,8 @@ import Demo from "./Examples/ClassComponents/Demo";
 import Parent from "./Examples/ClassComponents/Parent";
 import StateVariable from "./Examples/ClassComponents/StateVariable";
 import Display from "./Examples/ClassComponents/Display";
+import StateExample from "./Examples/ClassComponents/StateExample";
+import Counter from "./Examples/ClassComponents/Counter";
 function App() {
   return (
     <div>
@@ -13,7 +15,9 @@ function App() {
       {/* <MapExample /> */}
       {/* <Demo /> */}
       {/* <Parent /> */}
-      <StateVariable />
+      {/* <StateVariable /> */}
+      {/* <StateExample /> */}
+      <Counter />
     </div>
   );
 }

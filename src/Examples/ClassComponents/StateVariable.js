@@ -15,7 +15,6 @@ class stateVariable extends Component {
     return (
       <div>
         <Display data={this.state.products} />
-
         <button onClick={() => this.setState({ name: "Sai Priyanka" })}>
           Change
         </button>
